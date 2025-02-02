@@ -1,20 +1,20 @@
-Çeviri Sitesi
+🌍 Çeviri Sitesi
 
-Bu proje, kullanıcıların farklı diller arasında metin çevirisi yapmasına olanak tanıyan bir çeviri sitesidir. Kullanıcı dostu bir arayüz ve hızlı çeviri hizmeti sunar.
+Bu proje, kullanıcıların farklı diller arasında metin çevirisi yapmasını sağlayan bir web uygulamasıdır. 🌐
 
-Özellikler
+✨ Özellikler
 
-Farklı diller arasında metin çevirisi
+🌎 Farklı diller arasında hızlı çeviri
 
-Kullanıcı dostu ve responsive tasarım
+🖥️ Kullanıcı dostu ve responsive tasarım
 
-API entegrasyonu ile güncel çeviri hizmeti
+🔗 API entegrasyonu ile güncel çeviri hizmeti
 
-Kopyala ve yapıştır özelliği
+📋 Kopyala ve yapıştır özelliği
 
-Hafif ve optimize edilmiş kod yapısı
+⚡ Hafif ve optimize edilmiş kod yapısı
 
-Kurulum
+🚀 Kurulum
 
 Projeyi yerel ortamınızda çalıştırmak için aşağıdaki adımları takip edebilirsiniz:
 
@@ -34,11 +34,11 @@ Uygulamayı çalıştırın:
 
 npm start  # veya python app.py
 
-Kullanım
+💻 Kullanım
 
 Web tarayıcınızda http://localhost:8000 adresine giderek çeviri aracını kullanabilirsiniz.
 
-Katkıda Bulunma
+🤝 Katkıda Bulunma
 
 Katkıda bulunmak isterseniz:
 
